@@ -1,0 +1,22 @@
+body {
+    background-color:#cbdcfa;
+}
+
+hr {
+border;
+height: 3px;
+background-color: cornflowerblue;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 600;
+    color:cornflowerblue;
+}
+
+#result, #captured_image {
+    width:350px;
+    height:265px;
+}
+
+/* test */
